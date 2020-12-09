@@ -6,7 +6,7 @@ List of all awesome things about Webflow
 - [Pipe.com](PIPE.COM) website is made in webflow and features really cool svg + lottie animations
 
 
-### Tips
+### Rad Implementations
 
 #### Horizontal Expand aka Expanding Card Menu
 1. [Clone from flowbase](https://webflow.com/website/Expanding-Cards-Menu-CLONE?fbclid=IwAR3mRU-BpPdCRLAEDnoeRLXPqmbHcJg8bRes62yo-xjDc_Z8tbBq2Sq7jWk)
