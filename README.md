@@ -4,6 +4,7 @@ List of all awesome things about Webflow
 ### #MadeinWebflow
 
 - [Pipe.com](PIPE.COM) website is made in webflow and features really cool svg + lottie animations
+- [TUFF Group](https://brota-tuffgroup.webflow.io/) is an professional looking webflow project from (Alex Igleisas)[https://webflow.com/alexiglesias] with awesome micro interactions with a minimal touch.
 
 
 ### Rad Implementations
