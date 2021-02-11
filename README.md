@@ -5,6 +5,7 @@ List of all awesome things about Webflow
 
 - [Pipe.com](https://www.PIPE.COM) website is made in webflow and features really cool svg + lottie animations
 - [TUFF Group](https://www.brota-tuffgroup.webflow.io/) is an professional looking webflow project from [Alex Igleisas](https://www.webflow.com/alexiglesias) with awesome micro interactions with a minimal touch.
+- [Real Estate | Lower](https://www.lower.com/real-estate) is a very cool, minimal looking website with micor interactions, white space 💯
 
 
 ### Rad Implementations
